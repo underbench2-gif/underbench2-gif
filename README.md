@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm underbench2-gif!
 
-### 🚀 Full-Stack Developer | Automation Enthusiast | Open Source Contributor
+### 🚀 Security Professional | Aspiring Developer | Open Source Contributor
 
-I'm a passionate developer focused on building efficient, scalable applications and automating the boring stuff. I love working with modern web technologies and creating tools that solve real-world problems.
+Security professional by day, aspiring developer by night. I'm passionate about learning web technologies, Python automation, and building tools that solve real-world problems.
 
 ---
 
@@ -34,7 +34,7 @@ I'm a passionate developer focused on building efficient, scalable applications 
 ### 📫 Connect with me
 
 - **GitHub**: [@underbench2-gif](https://github.com/underbench2-gif)
-- **LinkedIn**: [Alex Chen](https://linkedin.com/in/alexchen-dev)
+- **LinkedIn**: [Sydney Pyle](https://linkedin.com/in/sydney-pyle-b8ba03bb)
 - **Portfolio**: [Visit My Site](https://github.com/underbench2-gif/auto-annotated-portfolio)
 
 ---
