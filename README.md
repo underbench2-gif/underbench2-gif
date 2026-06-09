@@ -34,7 +34,7 @@ I'm a passionate developer focused on building efficient, scalable applications 
 ### 📫 Connect with me
 
 - **GitHub**: [@underbench2-gif](https://github.com/underbench2-gif)
-- **LinkedIn**: [Coming Soon]
+- **LinkedIn**: [Alex Chen](https://linkedin.com/in/alexchen-dev)
 - **Portfolio**: [Visit My Site](https://github.com/underbench2-gif/auto-annotated-portfolio)
 
 ---
